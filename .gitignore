@@ -1,0 +1,8 @@
+vector_db/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+node_modules/
+.DS_Store
